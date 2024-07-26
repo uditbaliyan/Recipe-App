@@ -15,7 +15,11 @@ SECRET_KEY = 'y=(ebl4aq_aso)msecret key 2z6a04c486b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'localhost',
+    '127.0.0.1',
+    'blog-with-authentication.onrender.com',
+]
 
 
 # Application definition
