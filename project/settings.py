@@ -18,7 +18,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
-    'recipe-app-yhbv.onrender.com',
+    'recipe-app-i777.onrender.com',
 ]
 
 
