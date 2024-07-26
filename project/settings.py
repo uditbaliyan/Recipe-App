@@ -15,11 +15,8 @@ SECRET_KEY = 'y=(ebl4aq_aso)msecret key 2z6a04c486b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [
-    'localhost',
-    '127.0.0.1',
-    'recipe-app-i777.onrender.com',
-]
+ALLOWED_HOSTS = ['*']
+
 
 
 # Application definition
